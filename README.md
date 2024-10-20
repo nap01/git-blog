@@ -1,2 +1,3 @@
-# git-blog
-A GitHub Pages test for my static Hugo blog using files from eigenfoo.github.io
+# [`blog.naveja.us`](https://blog.naveja.us/)
+
+The source of my personal website and blog.
